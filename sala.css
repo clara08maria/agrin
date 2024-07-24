@@ -1,0 +1,14 @@
+*{margin: 0%;}
+.subT2{
+    color: rgb(199, 149, 73);
+    background-color: beige;
+}
+.img1{
+    width: 450px;
+    height: 500px;
+}
+
+.lista{
+    display: flex;
+    justify-content: space-around;
+}

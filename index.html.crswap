@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pg inicial</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="bodi">
+ <header class="cabecalho"> 
+    <img src="logo.png" alt="">
+<h1 class="TituloPagina">Decor Itens</h1>
+<img src="logo.png" alt="">
+ </header>
+    
+ h
+ <section>
+<a class="quart" href="file:///tmp/guest-hp5n6u/%C3%81rea%20de%20Trabalho/Pasta%20Site%20Decora%C3%A7%C3%A3o/Pasta%20Site%20Decora%C3%A7%C3%A3o/Quarto.html">Quarto</a>
+
+ </section>
+
+ <section>
+  <a class="sala" href="file:///C:/Users/Pedro%20Henrique/OneDrive/%C3%81rea%20de%20Trabalho/Pasta%20Site%20Decora%C3%A7%C3%A3o/sala.html">Sala de estar</a>
+ </section>
+
+<section>
+<a class="coz" href="file:///C:/Users/Pedro%20Henrique/OneDrive/%C3%81rea%20de%20Trabalho/Pasta%20Site%20Decora%C3%A7%C3%A3o/cozinha.html">Cozinha</a>
+</section>
+
+<footer class="rodape">
+<a class="pqD" href="https://casavogue.globo.com/Interiores/Ambientes/noticia/2018/01/por-que-decoramos.html">Por que decorar um ambiente?!</a>
+<h3 class="subT2"> Agradecemos a preferência! </h1>
+<h4 class="subT3"> Caso algum problema ou dúvida entrar em contato (**) ****-****.</h4>
+</footer>
+
+
+
+</body>
+</html>
